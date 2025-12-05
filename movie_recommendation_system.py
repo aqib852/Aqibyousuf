@@ -13,7 +13,8 @@ Concepts Used:
 ✅ Cosine Similarity
 ✅ Content-Based Recommendation System
 
-Author: Your Name
+Author: Your aqib yousuf
+
 =========================================================
 """
 
